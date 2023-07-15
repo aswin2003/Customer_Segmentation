@@ -23,7 +23,7 @@ The steps involved in this project are as follows:
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.10
 - Pandas
 - NumPy
 - Matplotlib
